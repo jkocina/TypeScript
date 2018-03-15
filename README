@@ -2,4 +2,11 @@
 
 the first hello world tutorial can be found here:  https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes.html
 
+To run typescript a computer needs a typescript compiler. A typescript compiler is included with installations of node. 
 
+To Install node in mac
+- Install Xcode
+- Install brew
+- Install node
+- verify versions
+- compile typescript

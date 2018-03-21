@@ -5,7 +5,7 @@ import registerServiceWorker from './registerServiceWorker';
 import './index.css';
 import Hello from './containers/Hello';
 import { createStore } from 'redux';
-import { enthusism } from './reducers/index';
+import { enthusiasm } from './reducers/index';
 import { StoreState } from './types/index';
 import { Provider } from 'react-redux';
 
